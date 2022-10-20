@@ -1,0 +1,118 @@
+
+/** Modal */
+.custom-modal .modal-content {
+    border: 0;
+    border-radius: 10px;
+}
+
+.form-header {
+    text-align: center;
+}
+
+.form-header h3 {
+    color: #333;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.form-header p {
+    color: #929292;
+    font-size: 15px;
+    margin-bottom: 1.5em;
+}
+.p {
+    margin-top: 0 !important;
+    margin-bottom: 1rem !important;
+}
+
+.btn-primary-cus {
+    color: #6e6e6e;
+}
+.btn-primary-cus:hover {
+    color: #fff;
+    background-color: #f43b48;
+}
+.custom-modal .modal-body {
+    padding: 30px;
+}
+.continue-btn {
+    background-color: #fff;
+    border: 1px solid #f43b48;
+    border-radius: 50px;
+    color: #f43b48;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.cancel-btn {
+    background-color: #fff;
+    border: 1px solid #f43b48;
+    border-radius: 50px;
+    color: #f43b48;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/** End Modal */
+
+.custom-modal .modal-header {
+    border: 0;
+    justify-content: center;
+    padding: 30px 30px 0;
+}
+
+.custom-modal .modal-title {
+    font-size: 22px;
+}
+.modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+.form-control {
+    height: 2.8rem !important;
+}
+.custom-modal .close {
+    background-color: #a0a0a0;
+    border: none;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 24px;
+    height: 26px;
+    line-height: 28px;
+    margin: 0;
+    opacity: 1;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 26px;
+    z-index: 99;
+}
+
+.submit-section {
+    text-align: center;
+    margin-top: 40px;
+}
+.submit-btn {
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    min-width: 200px;
+    padding: 10px 20px;
+}
+.btn-primary-save {
+    color: #ffffff;
+    background-color: #f43b48;
+    border: 1px solid #f43b48;
+}
+.btn-primary-save:hover {
+    background-color: #f43b48;
+    border: 1px solid #f43b48;
+}
